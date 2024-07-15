@@ -1,4 +1,4 @@
-# Ai Writer & Chat Generative AI Platform: Privacy Policy
+# AI Writer: SEO Toolkit & Chat: Privacy Policy
 Privacy Policy
 
 This app is as a Free app. This SERVICE is provided  at no cost and is intended for use as is. However User can upgrade for more monthly credit.
