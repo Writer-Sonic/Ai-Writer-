@@ -1,61 +1,113 @@
 # AI Writer: SEO Toolkit & Chat: Privacy Policy
-Privacy Policy
+Last Updated: September 17, 2024
 
-This app is as a Free app. This SERVICE is provided  at no cost and is intended for use as is. However User can upgrade for more monthly credit.
+Welcome to AI Writer: SEO Toolkit & Chat: Privacy Policy. This Privacy Policy outlines our practices regarding the collection, use, processing, and disclosure of personal information provided by users of our app, which is available on the Play Store and Apple Store. We are committed to protecting your privacy and managing your personal information transparently and securely.
+1. Information We Collect & How We Use It
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+1.1 Primary Account Information
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+    Required Information: To access our app, users are required to authenticate via a social provider such as Gmail or Apple Sign-In. These providers share with us a unique user identifier (UID), which is essential for creating and maintaining your user profile.
+    Purpose: The UID is used for authentication, verifying user identity during each session, and ensuring data privacy.
+    Sharing: We do not share this UID with third parties except when necessary to facilitate authentication or comply with legal requirements.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Wordle unless otherwise defined in this Privacy Policy.
+1.2 User-Generated Content
 
-Information Collection and Use
+    Chat Data: We collect and store the content of your conversations within our app, including text inputs and image uploads.
+    Purpose: This data is used to enhance functionality, provide customized responses, and optimize user experience.
+    Retention and Access: Your chat history is stored securely and is accessible only to you and select personnel who require access to fulfill our service obligations or when legally mandated.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to We do not collect anything. The information that I request will be retained on your device and is not collected by me in any way.
+1.3 Device Information
 
-The app does use third-party services that may collect information used to identify you.
+    Data Collected: We gather information about the devices used to access our app, device types, and operating systems.
+    Firebase Installation ID: Our app uses Firebase SDK, which automatically collects a Firebase Installation ID. This ID is used solely for app functionality and is not used for advertising or tracking purposes.
+    Purpose: This information is used to diagnose system issues, enhance app performance, and support crash analytics efforts.
+    No Advertising: We do not use any advertising services in our app, and we do not collect or use data for advertising purposes.
 
+1.4 Usage Data
 
+    Data Collected: Information about product interactions and usage patterns.
+    Purpose: This data helps us understand user behavior and improve our services.
 
-Log Data
+2. Use of Information
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+The information we collect is used to:
 
-Cookies
+    Provide and maintain the AI Writer: SEO Toolkit & Chat: Privacy Policy service
+    Process and handle user interactions within the app
+    Analyze and improve the service
+    Respond to user inquiries and provide customer support
+    Send important service-related notifications
+    Comply with legal obligations
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+3. Data Safety and Device Identifiers
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+We are committed to protecting your privacy and ensuring the safety of your data. In compliance with Google Play's Data Safety requirements, we want to be fully transparent about our data collection practices, particularly regarding device identifiers:
 
-Service Providers
+    Firebase Installation ID: Our app uses the Firebase SDK, which automatically generates and collects a Firebase Installation ID. This ID is used solely for app functionality, such as ensuring proper operation of Firebase services and providing you with a consistent experience across sessions.
+    Sentry Data Collection: We use Sentry for error tracking and performance monitoring. Sentry collects certain device information including:
+        MAC address
+        Device type
+        Operating system version
+        Other technical details necessary for diagnosing issues
+    This information is used solely for the purpose of improving app performance, identifying and fixing errors, and enhancing user experience.
+    Purpose: The collected device information is used to diagnose system issues, enhance app performance, support crash analytics efforts, and provide better user support.
+    Data Protection: All collected data, including Sentry data, is encrypted and securely stored. Access is strictly limited to authorized personnel for the purposes of app improvement and user support.
+    No Advertising: We do not use any advertising services in our app, and we do not use the collected data for advertising purposes.
 
-I may employ third-party companies and individuals due to the following reasons:
+We are committed to keeping our Data Safety form in the Google Play Console accurate and up-to-date. If you have any questions about our data collection practices or how we use device identifiers, please contact us using the information provided in the "Contact Us" section.
+4. Sharing of Information
 
-    To facilitate our Service;
-    To provide the Service on our behalf;
-    To perform Service-related services; or
-    To assist us in analyzing how our Service is used.
+We do not sell, trade, or transfer your personally identifiable information to outside parties, except in compliance with the law or to trusted third parties who assist us in operating our service, subject to confidentiality agreements.
+5. User Rights and Control
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+You have the right to:
 
-Security
+    Access and update your personal information
+    Request deletion of your data
+    Opt-out of certain data collection practices
+    Withdraw consent at any time, subject to legal or contractual restrictions
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+6. Data Retention and Deletion
 
-Links to Other Sites
+We retain your data for one year from your last login. To delete your account and associated data:
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+    Open the AI Writer: SEO Toolkit & Chat: Privacy Policy app
+    Go to App Settings
+    Navigate to Data Control
+    Select "Delete Account"
 
-Children’s Privacy
+Upon receiving your deletion request, we will promptly process it and remove all your personal information and user data from our systems. Inactive accounts are automatically deleted after 14 days of inactivity.
+7. Children's Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+Our service is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+8. Changes to This Policy
 
-Changes to This Privacy Policy
+We may update this privacy policy periodically. Users will be notified of any significant changes.
+10. Sign in with Apple
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+AI Writer: SEO Toolkit & Chat: Privacy Policy offers "Sign in with Apple" as an authentication option. This feature provides an additional layer of privacy and security for users:
 
-This policy is effective as of 2022-02-18
+    Apple acts as an intermediary for authentication, allowing you to sign in without sharing your Apple ID email address.
+    You have the option to mask your email address. If chosen, Apple creates a unique, random email address that forwards to your real email address.
+    The app receives only the information you agree to share, which may include your name and the email address you've chosen to share.
+    Your Apple ID password is never shared with the app.
 
-Contact Us
+The information received through Sign in with Apple is used solely for creating and managing your account within the app. You can revoke the app's access to your Apple ID at any time through your Apple ID settings.
+11. Security of Google User Data
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kaashiorg[@]protonmail.com. 
+We take the security of your Google user data seriously. When you grant access to your Google data, we implement the following security measures:
+
+    Encryption: All data in transit and at rest is encrypted using industry-standard protocols.
+    Access Controls: Only authorized personnel have access to systems processing Google user data.
+    Regular Security Audits: We conduct periodic security assessments to ensure the ongoing protection of your data.
+    Data Minimization: We access and store only the minimum amount of data necessary to provide the requested functionality.
+
+Your Google data is used only for the purposes explicitly stated in this policy and to provide the services you've requested. You have full control over the Google data you share:
+
+    You can revoke access to your Google data at any time through your Google Account settings.
+    If you revoke access or delete your account, all associated Google data will be promptly deleted from our systems.
+    We adhere to Google's Limited Use requirements and will not use your data for any purposes other than those explicitly stated in this policy.
+
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us through the app's Support tab.
