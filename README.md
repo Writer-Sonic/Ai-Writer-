@@ -1,43 +1,45 @@
-# AI Writer: SEO Toolkit & Chat: Privacy Policy
-Last Updated: September 17, 2024
+# AI Writer: Generative AI & Chat
+Last Updated: October 6, 2024
+Welcome to AI Writer: Generative AI & Chat: Privacy Policy. This Privacy Policy outlines our practices regarding the collection, use, processing, and disclosure of personal information provided by users of our app, which is available on the Play Store and Apple Store. We are committed to protecting your privacy and managing your personal information transparently and securely.
 
-Welcome to AI Writer: SEO Toolkit & Chat: Privacy Policy. This Privacy Policy outlines our practices regarding the collection, use, processing, and disclosure of personal information provided by users of our app, which is available on the Play Store and Apple Store. We are committed to protecting your privacy and managing your personal information transparently and securely.
 1. Information We Collect & How We Use It
 
 1.1 Primary Account Information
 
-    Required Information: To access our app, users are required to authenticate via a social provider such as Gmail or Apple Sign-In. These providers share with us a unique user identifier (UID), which is essential for creating and maintaining your user profile.
-    Purpose: The UID is used for authentication, verifying user identity during each session, and ensuring data privacy.
-    Sharing: We do not share this UID with third parties except when necessary to facilitate authentication or comply with legal requirements.
+- Required Information: To access our app, users are required to authenticate via a social provider such as Gmail or Apple Sign-In. These providers share with us a unique user identifier (UID) and your email address, which are essential for creating and maintaining your user profile.
+- Purpose: The UID and email address are used for authentication, verifying user identity during each session, and ensuring data privacy.
+- Sharing: We do not share this information with third parties except when necessary to facilitate authentication or comply with legal requirements.
 
 1.2 User-Generated Content
 
-    Chat Data: We collect and store the content of your conversations within our app, including text inputs and image uploads.
-    Purpose: This data is used to enhance functionality, provide customized responses, and optimize user experience.
-    Retention and Access: Your chat history is stored securely and is accessible only to you and select personnel who require access to fulfill our service obligations or when legally mandated.
+- Chat Data: We collect and store the content of your conversations within our app, including text inputs and image uploads.
+- Purpose: This data is used to enhance functionality, provide customized responses, and optimize user experience.
+- Retention and Access: Your chat history is stored securely and is accessible only to you and select personnel who require access to fulfill our service obligations or when legally mandated.
 
 1.3 Device Information
 
-    Data Collected: We gather information about the devices used to access our app, device types, and operating systems.
-    Firebase Installation ID: Our app uses Firebase SDK, which automatically collects a Firebase Installation ID. This ID is used solely for app functionality and is not used for advertising or tracking purposes.
-    Purpose: This information is used to diagnose system issues, enhance app performance, and support crash analytics efforts.
-    No Advertising: We do not use any advertising services in our app, and we do not collect or use data for advertising purposes.
+- Data Collected: We gather information about the devices used to access our app, including device types and operating systems.
+- Firebase Installation ID: Our app uses Firebase SDK, which automatically generates and collects a Firebase Installation ID. This ID is linked to your user profile and email address when you're signed in.
+- Purpose: This information is used to diagnose system issues, enhance app performance, and support crash analytics efforts.
+- No Advertising: We do not use any advertising services in our app, and we do not collect or use data for advertising purposes.
 
 1.4 Usage Data
 
-    Data Collected: Information about product interactions and usage patterns.
-    Purpose: This data helps us understand user behavior and improve our services.
+- Data Collected: Information about product interactions and usage patterns.
+- Purpose: This data helps us understand user behavior and improve our services.
 
 2. Use of Information
 
 The information we collect is used to:
 
-    Provide and maintain the AI Writer: SEO Toolkit & Chat: Privacy Policy service
-    Process and handle user interactions within the app
-    Analyze and improve the service
-    Respond to user inquiries and provide customer support
-    Send important service-related notifications
-    Comply with legal obligations
+- Provide and maintain the AI Writer: Generative AI & Chat service
+- Process and handle user interactions within the app
+- Analyze and improve the service
+- Respond to user inquiries and provide customer support
+- Send important service-related notifications
+- Comply with legal obligations
+- Potential future marketing communications (see section 11)
+
 
 3. Data Safety and Device Identifiers
 
@@ -71,7 +73,7 @@ You have the right to:
 
 We retain your data for one year from your last login. To delete your account and associated data:
 
-    Open the AI Writer: SEO Toolkit & Chat: Privacy Policy app
+    Open the AI Writer: Generative AI & Chat: Privacy Policy app
     Go to App Settings
     Navigate to Data Control
     Select "Delete Account"
@@ -83,9 +85,14 @@ Our service is not intended for children under 13. We do not knowingly collect p
 8. Changes to This Policy
 
 We may update this privacy policy periodically. Users will be notified of any significant changes.
+
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us through the app's Support tab.
+
 10. Sign in with Apple
 
-AI Writer: SEO Toolkit & Chat: Privacy Policy offers "Sign in with Apple" as an authentication option. This feature provides an additional layer of privacy and security for users:
+AI Writer: Generative AI & Chat: Privacy Policy offers "Sign in with Apple" as an authentication option. This feature provides an additional layer of privacy and security for users:
 
     Apple acts as an intermediary for authentication, allowing you to sign in without sharing your Apple ID email address.
     You have the option to mask your email address. If chosen, Apple creates a unique, random email address that forwards to your real email address.
@@ -108,6 +115,12 @@ Your Google data is used only for the purposes explicitly stated in this policy 
     If you revoke access or delete your account, all associated Google data will be promptly deleted from our systems.
     We adhere to Google's Limited Use requirements and will not use your data for any purposes other than those explicitly stated in this policy.
 
-9. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us through the app's Support tab.
+11. Marketing Communications
+
+While we currently do not engage in email marketing, we may use your email address for developer marketing purposes in the future. If we decide to start email marketing:
+
+- We will always provide an option to opt-out of marketing communications.
+- Your email will only be used for direct communications from our development team about app updates, new features, or related services.
+- We will never sell or share your email address with third parties for their marketing purposes.
+- You can opt-out of marketing emails at any time by using the unsubscribe link in the email or by contacting us directly.
